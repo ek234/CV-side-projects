@@ -13,3 +13,7 @@ Use basic opencv-python functionality to reduce shaking in a given video sample.
 ### Additional Tasks
 
 - [ ] Make the video loop (how?! We want to have a smooth transition from the last frame to the first one).
+
+## Files
+
+A sample file is given in the res directory. The full file can be downloaded from [link](https://drive.google.com/file/d/15JQs1dCo_6Bkuz8K3pDZU4ajzdTBODGI).
